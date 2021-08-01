@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f75e25fd.chunk.css",
+    "main.js": "/static/js/main.8d5d2d96.chunk.js",
+    "main.js.map": "/static/js/main.8d5d2d96.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e798b279.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e798b279.js.map",
+    "static/js/2.5257fe1c.chunk.js": "/static/js/2.5257fe1c.chunk.js",
+    "static/js/2.5257fe1c.chunk.js.map": "/static/js/2.5257fe1c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f75e25fd.chunk.css.map": "/static/css/main.f75e25fd.chunk.css.map",
+    "static/js/2.5257fe1c.chunk.js.LICENSE.txt": "/static/js/2.5257fe1c.chunk.js.LICENSE.txt",
+    "static/media/Logo.6a2e7f0a.png": "/static/media/Logo.6a2e7f0a.png",
+    "static/media/coffeecar.9d92ac49.jpg": "/static/media/coffeecar.9d92ac49.jpg",
+    "static/media/coffeegrounds.023164a2.jpg": "/static/media/coffeegrounds.023164a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e798b279.js",
+    "static/js/2.5257fe1c.chunk.js",
+    "static/css/main.f75e25fd.chunk.css",
+    "static/js/main.8d5d2d96.chunk.js"
+  ]
+}
